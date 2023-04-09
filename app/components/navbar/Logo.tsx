@@ -11,8 +11,8 @@ const Logo = () => {
       className='hidden 
       md:block 
       cursor-pointer bg-slate-600'
-      height='100'
-      width='100'
+      height='40'
+      width='60'
       src='/images/sba-logo4.svg'
     />
   );
