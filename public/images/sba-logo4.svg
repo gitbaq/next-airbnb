@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49" height="22" viewBox="0 0 49 22">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 25px;
+        fill: #fff;
+        font-family: Galvji;
+      }
+
+      .cls-2 {
+        fill: #6dcff6;
+      }
+
+      .cls-3 {
+        fill: #325033;
+        font-size: 500px;
+      }
+    </style>
+  </defs>
+  <text id="SBAS_B_A" data-name="SBAS B A" class="cls-1" x="-0.344" y="19.985">S<tspan class="cls-2">B</tspan>A<tspan class="cls-3">S B A</tspan></text>
+</svg>
