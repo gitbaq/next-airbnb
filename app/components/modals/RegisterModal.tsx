@@ -35,7 +35,7 @@ const RegisterModal = () => {
 
   const onSubmit: SubmitHandler<FieldValues> = (data) => {
     setIsLoading(true);
-
+    debugger;
     axios
       .post("/api/register", data)
       .then(() => {
@@ -45,6 +45,7 @@ const RegisterModal = () => {
       })
       .catch((error) => {
         toast.error(error);
+        console.log("Error: " + error);
       })
       .finally(() => {
         setIsLoading(false);
